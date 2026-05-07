@@ -1,0 +1,10 @@
+experiment,Age,Gender,Familiarity,Overall Collaboration,Your Collaboration,Partner Collaboration,"Your Communication
+",Partner Communication,"Performance Improvement
+"
+Trial 01,"26, 26","Male, Male","Familiar, Familiar",4.5,5.0,4.5,4.0,4.5,4.0
+Trial 02,"23, 27","Female, Male","Familiar, Familiar",4.0,3.5,4.5,3.5,3.5,4.5
+Trial 03,"27, 23","Male, Female","Unfamiliar, Unfamiliar",3.0,4.0,4.0,3.5,3.0,3.5
+Trial 04,"27, 23","Female, Female","Unfamiliar, Unfamiliar",4.5,4.5,4.5,3.5,3.0,3.5
+Trial 05,"27, 26","Male, Female","Unfamiliar, Unfamiliar",3.5,3.5,4.0,3.5,4.5,4.0
+Trial 06,"27, 28","Female, Male","Unfamiliar, Unfamiliar",4.0,4.0,3.5,3.0,3.0,4.0
+Trial 07,"23, 23","Female, Male","Familiar, Familiar",3.5,3.5,3.5,4.5,4.0,3.5
