@@ -9,7 +9,7 @@
 
 ## Abstract
 
-This research examines the relationship between physiological synchrony (PS) and collaboration within dyads engaged in *Overcooked* — a virtual kitchen simulation game. 14 participants were paired to form 7 dyads based on familiarity. PS was assessed by analysing participants' heart rate data, while the dyad's game score assessed collaboration during gameplay. Findings presented a weak yet positive relationship between PS and collaboration, while statistically insignificant. Additionally, familiarity between participants did not significantly affect PS or collaboration. These findings contribute to understanding PS and collaboration in virtual gaming environments while highlighting the influence of familiarity on such research.
+This research examines the relationship between physiological synchrony (PS) and collaboration within dyads engaged in Overcooked- a virtual kitchen simulation game. 14 participants were paired to form 7 dyads based on familiarity. PS was assessed by analysing participants' heart rate data, while the dyad's game score assessed collaboration during gameplay. Findings presented a weak yet positive relationship between PS and collaboration, while statistically insignificant. Additionally, familiarity between participants did not significantly affect PS or collaboration. These findings contribute to understanding PS and collaboration in virtual gaming environments while highlighting the influence of familiarity on such research.
 
 **Keywords:** physiological synchrony · collaboration · overcooked · heart rate · dyadic interaction
 
