@@ -1,0 +1,9 @@
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+neurokit2
+pandas
+flask
+pyserial
